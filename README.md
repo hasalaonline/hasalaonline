@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_images/1524283703844737024/H9M55Vh-_400x400.jpg" width="400" height="400" />
+  <img src="https://github.com/hasalaonline/portfolio-2.0/blob/main/hasala.jpg" width="400" height="400" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hasalaonline/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
