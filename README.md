@@ -38,3 +38,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasalaonline&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![@hasalaonline's Holopin board](https://holopin.me/hasalaonline)](https://holopin.io/@hasalaonline)
