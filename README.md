@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQEMn8Np0Z5fkA/profile-displayphoto-shrink_800_800/0/1680661438662?e=1692230400&v=beta&t=A4lP6_0Q0zRYncB-tY7W5diWaWmW64eLG6hzPZfFXhE" width="400" height="400" />
+  <img src="[https://media.licdn.com/dms/image/D4D03AQEMn8Np0Z5fkA/profile-displayphoto-shrink_800_800/0/1680661438662?e=1692230400&v=beta&t=A4lP6_0Q0zRYncB-tY7W5diWaWmW64eLG6hzPZfFXhE](https://pbs.twimg.com/profile_images/1684040372497043457/SY3p80FQ_400x400.jpg)" width="400" height="400" />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hasalaonline/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
