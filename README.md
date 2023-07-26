@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://pbs.twimg.com/profile_images/1684040372497043457/SY3p80FQ_400x400.jpg" width="400" height="400" style="border-radius: 50%;">
-</p>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hasalaonline/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
