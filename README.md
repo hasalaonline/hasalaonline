@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasala Abhilasha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<!-- <p align: "center">
+  <img src="https://hasalaonline.github.io/assets/img/hasala.PNG" alt="Your Image Description" style="border-radius: 50%; width: 300px;" />
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasalaonline&label=Profile%20views&color=0e75b6&style=flat" alt="hasalaonline" /> </p>
 
