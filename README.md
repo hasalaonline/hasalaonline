@@ -49,4 +49,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasalaonline&" alt="hasalaonline" /></p>
 
 
-[![@hasalaonline's Holopin board](https://holopin.me/hasalaonline)](https://www.holopin.io/userbadge/clanih6j6007408kx5wpbm613)
+[![An image of @hasalaonline5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasalaonline5)](https://holopin.io/@hasalaonline5)
