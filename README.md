@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Front-End frameworks**
 
-- 👨‍💻 All of my projects are available at [hasalaonline.github.io](hasalaonline.github.io)
+- 👨‍💻 All of my projects are available at [hasalaabhilasha.me/](hasalaabhilasha.me/)
 
 - 📝 I regularly write articles on [androidwedakarayo.com/hasala](androidwedakarayo.com/hasala)
 
