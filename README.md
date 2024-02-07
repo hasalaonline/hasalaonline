@@ -10,21 +10,21 @@
 
 <p align="left"> <a href="https://twitter.com/hasalaonline" target="blank"><img src="https://img.shields.io/twitter/follow/hasalaonline?logo=twitter&style=for-the-badge" alt="hasalaonline" /></a> </p>
 
-- 🔭 I’m currently an [undergraduate at](University of Westminster)
+- 🔭 I am currently reading for my bachelor's degree at IIT affiliated with the University of Westminster..
 
 - 🌱 I’m currently learning **Front-End frameworks**
 
-- 👨‍💻 All of my projects are available at [hasalaabhilasha.me/](hasalaabhilasha.me/)
+- 👨‍💻 All of my projects are available at [hasalaabhilasha.me/](www.hasalaabhilasha.me/)
 
-- 📝 I regularly write articles on [androidwedakarayo.com/hasala](androidwedakarayo.com/hasala)
+- 📝 I regularly write articles on [androidwedakarayo.com/hasala](androidwedakarayo.com/hasala) and [medium.com/@hasalaonline](https://medium.com/@hasalaonline)
 
-- 💬 Ask me about **Git, Github, Java, Python**
+- 💬 Ask me about **Git, Github, Java, Python, Django, Flutter, REST APIs, Vertex AI, Generative AI, Postman**
 
-- 📫 How to reach me **hasala002@gmail.com**
+- 📫 How to reach me **hello@hasalaabhilasha.me**
 
 - 📄 Know about my experiences [hasalaonline.github.io/resume](hasalaonline.github.io/resume)
 
-- ⚡ Fun fact **I think I came to world because of world needs new innovations**
+- ⚡ Fun fact **I think I came to the world because of the world needs innovations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
