@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hello@hasalaabhilasha.me**
 
-- 📄 Know about my experiences [hasalaonline.github.io/resume](hasalaonline.github.io/resume)
+- 📄 Know about my experiences [resume]([hasalaonline.github.io/resume](https://www.hasalaabhilasha.me/resume/Hasala%20Nupe%20Arachchige.pdf))
 
 - ⚡ Fun fact **I think I came to the world because of the world needs innovations**
 
