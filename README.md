@@ -45,6 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasalaonline&show_icons=true&locale=en&layout=compact" alt="hasalaonline" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasalaonline&" alt="hasalaonline" /></p>
-
-
-[![An image of @hasalaonline5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasalaonline5)](https://holopin.io/@hasalaonline5)
