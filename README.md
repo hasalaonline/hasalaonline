@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hasala%20Abhilasha&fontSize=70" alt="header" />
 </p>
 
-<h3 align="center">Associate Software Engineer | AI Engineer | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | AI Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://hasala.dev"><b>hasala.dev</b></a> •
@@ -17,7 +17,7 @@
 
 I am a **Software & AI Engineer** dedicated to building innovative, scalable solutions. I transform complex problems into elegant digital experiences using modern web technologies and artificial intelligence.
 
-* 🚀 Currently an **Associate Software Engineer at Rootcode**, leading front-end development for enterprise ecosystems.
+* 🚀 Currently an **Software Engineer at Rootcode**, leading front-end development for enterprise ecosystems.
 * 🎓 Pursuing BSc (Hons) Computer Science at the **University of Westminster / IIT Campus** (85+ Average).
 * 🤖 Specialized in **Agentic AI**, architecting advanced AI features to automate complex business workflows.
 * ✍️ Technical Content Creator with **70+ articles** published on Android Wedakarayo and Medium.
