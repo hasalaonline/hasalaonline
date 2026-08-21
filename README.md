@@ -62,9 +62,5 @@ I am a **Software & AI Engineer** dedicated to building innovative, scalable sol
 ---
 
 <p align="center">
-  <i>"I think I came to the world because the world needs innovations."</i>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasalaonline&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
